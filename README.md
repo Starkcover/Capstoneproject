@@ -1,3 +1,4 @@
+link for colab notebook: https://colab.research.google.com/drive/1kpKnwYWE-lbG0GKFdmVjpcEHLgdrguHR?usp=sharing
 Comprehensive Analysis Report: Dynamic Pricing for Urban Parking Lots
 Executive Summary
 
